@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\jacob\\Documents\\Github\\APIs\\ToDoAPI-Controller\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C622BDA5-6F53-47E5-A154-76907D71A524}|ToDoAPI-Controller.csproj|c:\\users\\jacob\\documents\\github\\apis\\todoapi-controller\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{C622BDA5-6F53-47E5-A154-76907D71A524}|ToDoAPI-Controller.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{C622BDA5-6F53-47E5-A154-76907D71A524}|ToDoAPI-Controller.csproj|c:\\users\\jacob\\documents\\github\\apis\\todoapi-controller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C622BDA5-6F53-47E5-A154-76907D71A524}|ToDoAPI-Controller.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C622BDA5-6F53-47E5-A154-76907D71A524}|ToDoAPI-Controller.csproj|c:\\users\\jacob\\documents\\github\\apis\\todoapi-controller\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C622BDA5-6F53-47E5-A154-76907D71A524}|ToDoAPI-Controller.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C622BDA5-6F53-47E5-A154-76907D71A524}|ToDoAPI-Controller.csproj|c:\\users\\jacob\\documents\\github\\apis\\todoapi-controller\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C622BDA5-6F53-47E5-A154-76907D71A524}|ToDoAPI-Controller.csproj|solutionrelative:models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,25 +25,51 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\Documents\\Github\\APIs\\ToDoAPI-Controller\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\jacob\\Documents\\Github\\APIs\\ToDoAPI-Controller\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T00:54:45.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\Documents\\Github\\APIs\\ToDoAPI-Controller\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Models\\Item.cs",
+              "ToolTip": "C:\\Users\\jacob\\Documents\\Github\\APIs\\ToDoAPI-Controller\\Models\\Item.cs",
+              "RelativeToolTip": "Models\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T00:51:35.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\Documents\\Github\\APIs\\ToDoAPI-Controller\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jacob\\Documents\\Github\\APIs\\ToDoAPI-Controller\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T00:42:28.961Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\jacob\\Documents\\Github\\APIs\\ToDoAPI-Controller\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\Users\\jacob\\Documents\\Github\\APIs\\ToDoAPI-Controller\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-08-13T00:38:06.269Z",
-              "EditorCaption": ""
             }
           ]
         }
