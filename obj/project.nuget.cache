@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4Gep019wCho=",
+  "dgSpecHash": "ri+iKWfTJ7M=",
   "success": true,
   "projectFilePath": "C:\\Users\\jacob\\Documents\\Github\\APIs\\ToDoAPI-Controller\\ToDoAPI-Controller.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,7 @@
     "C:\\Users\\jacob\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.7\\microsoft.entityframeworkcore.abstractions.8.0.7.nupkg.sha512",
     "C:\\Users\\jacob\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.7\\microsoft.entityframeworkcore.analyzers.8.0.7.nupkg.sha512",
     "C:\\Users\\jacob\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.7\\microsoft.entityframeworkcore.design.8.0.7.nupkg.sha512",
+    "C:\\Users\\jacob\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\8.0.7\\microsoft.entityframeworkcore.inmemory.8.0.7.nupkg.sha512",
     "C:\\Users\\jacob\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.7\\microsoft.entityframeworkcore.relational.8.0.7.nupkg.sha512",
     "C:\\Users\\jacob\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\8.0.7\\microsoft.entityframeworkcore.sqlite.8.0.7.nupkg.sha512",
     "C:\\Users\\jacob\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\8.0.7\\microsoft.entityframeworkcore.sqlite.core.8.0.7.nupkg.sha512",
@@ -56,7 +57,14 @@
     "C:\\Users\\jacob\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
     "C:\\Users\\jacob\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\jacob\\.nuget\\packages\\system.text.json\\8.0.4\\system.text.json.8.0.4.nupkg.sha512",
-    "C:\\Users\\jacob\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512"
+    "C:\\Users\\jacob\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\jacob\\.nuget\\packages\\xunit\\2.9.0\\xunit.2.9.0.nupkg.sha512",
+    "C:\\Users\\jacob\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\jacob\\.nuget\\packages\\xunit.analyzers\\1.15.0\\xunit.analyzers.1.15.0.nupkg.sha512",
+    "C:\\Users\\jacob\\.nuget\\packages\\xunit.assert\\2.9.0\\xunit.assert.2.9.0.nupkg.sha512",
+    "C:\\Users\\jacob\\.nuget\\packages\\xunit.core\\2.9.0\\xunit.core.2.9.0.nupkg.sha512",
+    "C:\\Users\\jacob\\.nuget\\packages\\xunit.extensibility.core\\2.9.0\\xunit.extensibility.core.2.9.0.nupkg.sha512",
+    "C:\\Users\\jacob\\.nuget\\packages\\xunit.extensibility.execution\\2.9.0\\xunit.extensibility.execution.2.9.0.nupkg.sha512"
   ],
   "logs": []
 }
