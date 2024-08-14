@@ -9,8 +9,11 @@ namespace ToDoAPI_Controller.Controllers
     [Route("[controller]")]
     public class ItemController : ControllerBase
     {
-        private AppDbContext ctx;
+        private AppDbContext ctx; // ctx is what is used to interact with the DB through EF Core
 
+        /*
+         * constructor. Recieves AppDbContext via dependency injection
+         */
         public ItemController(AppDbContext context)
         {
             ctx = context;

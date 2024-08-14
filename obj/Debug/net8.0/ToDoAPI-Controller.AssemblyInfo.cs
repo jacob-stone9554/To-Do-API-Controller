@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToDoAPI-Controller")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19ffbeec62d80bca3137cef9301b0fa276838778")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6b6d1f8a0f3d9d56bb28e8b0456c86502b64e1b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToDoAPI-Controller")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToDoAPI-Controller")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
